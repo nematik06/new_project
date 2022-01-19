@@ -1,0 +1,35 @@
+.test {
+color:red;
+}
+
+.center{
+	text-align: center;
+}
+
+header{
+	font-size: 26px;
+	color: rgb(170, 28, 28);
+}
+
+nav{
+	font-size: 20px;
+	color: lightseagreen;
+}
+
+footer{
+	font-size: 22px;
+	color:lime;
+}
+
+.block {
+	padding: 15px;
+}
+
+.block div {
+	width: 30%;
+	min-height: 200px;
+	padding: 15px;
+	border: 1px solid black;
+	position: relative;
+	display: inline-block;
+}
